@@ -3,6 +3,7 @@
 ## Overview
 This project analyzes the 2019 New York City Airbnb dataset to uncover trends in rental prices, popularity, and location. It features a comprehensive Jupyter Notebook for data science workflows and a Streamlit Dashboard for interactive exploration.
 
+![](dashboard.png)
 ## Directory Structure
 *   `nyc_airbnb_analysis.ipynb`: The core analysis notebook (Cleaning, EDA, ML).
 *   `app.py`: Interactive Streamlit Dashboard.
@@ -14,7 +15,6 @@ This project analyzes the 2019 New York City Airbnb dataset to uncover trends in
 1.  **Exploratory Data Analysis**:
     *   ### Geospatial View
 Manhattan has the highest density of expensive listings.
-![NYC Map](plots/nyc_map.png)
     *   Price distribution analysis.
     *   Borough-wise comparisons.
 2.  **Machine Learning**:
@@ -45,3 +45,4 @@ Start the web application:
 ```bash
 streamlit run app.py
 ```
+
