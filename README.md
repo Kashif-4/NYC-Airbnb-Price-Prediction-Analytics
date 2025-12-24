@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes the 2019 New York City Airbnb dataset to uncover trends in rental prices, popularity, and location. It features a comprehensive Jupyter Notebook for data science workflows and a Streamlit Dashboard for interactive exploration.
 
-![](dashboard.png)
+![](Dashboard.png)
 ## Directory Structure
 *   `nyc_airbnb_analysis.ipynb`: The core analysis notebook (Cleaning, EDA, ML).
 *   `app.py`: Interactive Streamlit Dashboard.
@@ -45,4 +45,5 @@ Start the web application:
 ```bash
 streamlit run app.py
 ```
+
 
