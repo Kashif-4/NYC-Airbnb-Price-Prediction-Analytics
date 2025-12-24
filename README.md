@@ -12,7 +12,9 @@ This project analyzes the 2019 New York City Airbnb dataset to uncover trends in
 
 ## Key Features
 1.  **Exploratory Data Analysis**:
-    *   Geospatial mapping of listings.
+    *   ### Geospatial View
+Manhattan has the highest density of expensive listings.
+![NYC Map](plots/nyc_map.png)
     *   Price distribution analysis.
     *   Borough-wise comparisons.
 2.  **Machine Learning**:
